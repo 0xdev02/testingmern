@@ -1,0 +1,60 @@
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&family=Rubik+Doodle+Shadow&family=Rubik+Doodle+Triangles&display=swap');
+.dev-body{
+    background-color: rgba(0, 0, 0, 0.052);
+    /* background-size: cover; */
+    /* height: 100vh; */
+}
+.body-section{
+    height: 100vh;
+}
+.nav-logo{
+    height: 50px;
+}
+.item-nav{
+    color: black;
+}
+.item-nav:hover{
+    color: rgb(0, 49, 128);
+}
+.anchor{
+    margin-left: auto;
+}
+.box-left{
+    text-align: right;
+    font-family: 'poppins';
+}
+.box-left p{
+    text-decoration: solid;
+    padding-left: 50px;
+}
+.profile-pic{
+    height: 60vh;
+}
+.about-us{
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.what-we{
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.card-group{
+   margin-left: 250px;
+}
+.card-body{
+    text-align: center;
+}
+.card:hover{
+    scale: 1.05;
+    border: 2px solid green;
+}
+.card{
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+}
+.bottom-pan{
+    text-align: center;
+}
